@@ -38,7 +38,7 @@ A curated list of awesome themes, plugins and more for [Obsidian](https://obsidi
 - [Reviews, Pros and Cons of Obsidian at Slant.co](https://www.slant.co/options/37045/~obsidian-md-review)
 - [Obsidian at Markdown Guide](https://www.markdownguide.org/tools/obsidian/)
 - [Obsidian Beginner Guide at SitePoint](https://www.sitepoint.com/obsidian-beginner-guide/)
-- [Obsidian Official Roadmap](https://trello.com/b/Psqfqp7I/obsidian-roadmap)
+- [Obsidian Official Roadmap](https://obsidian.md/roadmap/)
 
 </details>
 
@@ -49,7 +49,6 @@ A curated list of awesome themes, plugins and more for [Obsidian](https://obsidi
 
 - [Obsidian Help](https://help.obsidian.md/): a open-source Obsidian's official help vault.
 - [Obsidian Roundup](https://obsidianroundup.org/): a weekly roundup of Obsidian.md tips, news & resources via Eleanor Konik.
-- [Obsidian Garden](https://obsidian.garden): a open-source guide to creating your own 🌳 Digital Garden with Obsidian.
 - [Official Getting Started Guide](https://dynalist.io/d/CQ4V16tFhIJIfy-rgDK7r1Bp) (may be a little outdated)
 - [🎬 Obsidian Office Hours](https://www.youtube.com/channel/UCJKoNPnBdCSloJ2wlKnV2Fw)
 - [🎬 Obsidian Community Talks](https://www.youtube.com/channel/UCxNSTq2kmupdR6LD400FpvA)
@@ -496,7 +495,8 @@ Most themes should be available through the `Appearance` => `Community themes` i
 | [SMUsamaShah/Obsidian-Win98-Edition](https://github.com/SMUsamaShah/Obsidian-Win98-Edition) | ![Obsidian Windows 98 Edition](https://raw.githubusercontent.com/SMUsamaShah/Obsidian-Win98-Edition/master/screenshots/main.png "") |
 | [dogwaddle/lizardmen-zettelkasten](https://github.com/dogwaddle/lizardmen-zettelkasten) | ![Lizardmen Zettelkasten](https://raw.githubusercontent.com/dogwaddle/lizardmen-zettelkasten/master/screenshot.png "") |
 | [firinael/obsidian-cidreira-coast-theme](https://github.com/firinael/obsidian-cidreira-coast-theme) | ![Cidreira Coast](https://raw.githubusercontent.com/firinael/obsidian-cidreira-coast-theme/master/screenshot.png "") |
-| [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) | ![Shimmering Focus](https://raw.githubusercontent.com/chrisgrieser/shimmering-focus/master/dual-theme-screenshot.png "") |
+| [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) | ![Shimmering Focus](https://raw.githubusercontent.com/chrisgrieser/shimmering-focus/main/assets/promo-screenshot-big.png "") |
+| [caro401/royal-velvet](https://github.com/caro401/royal-velvet) | ![Royal Velvet](https://raw.githubusercontent.com/caro401/royal-velvet/main/royal-velvet.png "") |
 
 </details>
 
@@ -538,6 +538,6 @@ Most themes should be available through the `Appearance` => `Community themes` i
 - [Liam Cain's Obsidian API FAQ](https://liamca.in/Obsidian/API+FAQ/index)
 - [#obsidian-md at GitHub](https://github.com/topics/obsidian-md)
 - [Svelte (sometimes used by plugin developers to create components)](https://svelte.dev/)
-- [What tools and libraries are used in Obsidian?](https://konhi.me/obsidian-stack.html)
+- [What tools and libraries are used in Obsidian?](https://web.archive.org/web/20220626022347/https://konhi.me/obsidian-stack.html)
 
 </details>
