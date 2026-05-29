@@ -18,6 +18,8 @@ A curated list of awesome themes, plugins and more for [Obsidian](https://obsidi
 
 ---
 
+# This fork has been moved to [codeberg](https://codeberg.org/nellik/awesome-obsidian)
+
 # Table of contents
 
 - [What is Obsidian?](#what-is-obsidian)
